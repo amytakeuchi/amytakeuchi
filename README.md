@@ -1,8 +1,6 @@
 - Data-driven problem solver and never ending learner
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Learning, Time Series Analysis, and Forecasting
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 amytakeuchi/amytakeuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
