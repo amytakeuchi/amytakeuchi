@@ -1,5 +1,5 @@
 - Data-driven problem solver and never ending learner
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 
 <!---
