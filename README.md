@@ -1,5 +1,5 @@
 - Data-driven problem solver and never ending learner
-- Business Analytics, Causal Inference, Forecasting, & Deep Learning
+- Business Analytics, ML, Causal Inference, Forecasting, & Deep Learning
 - Python, SQL, & Java
 
 <!---
