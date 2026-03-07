@@ -1,5 +1,5 @@
 - Data-driven problem solver and never ending learner
-- Data Analytics, Data Science, & Deep Learning
+- Business Analytics, Causal Inference, Forecasting, & Deep Learning
 - Python, SQL, & Java
 
 <!---
